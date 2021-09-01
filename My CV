@@ -26,6 +26,14 @@
         <!--This is the first article-->
         <article>
                 <h2>Profil</h2>
+                <p>
+                    Extrem motiviert, meine Fähigkeiten ständig
+weiterzuentwickeln und beruflich zu wachsen. Ich
+bin überzeugt, dass ich durch meine Kenntnisse
+interessante Ideen zum weiteren Erfolg des
+Unternehmens mitbringen kann.
+
+                </p>
         </article>
 
         <!--This is the second article-->
@@ -94,8 +102,36 @@
         </ul>
                
         </article> 
+        <!--This is the fourth article-->
 
-        <!--This is the fourt article-->
+        <article>
+            <h2 style="background-color: #191970; color: white;">Beruflicher Werdegang</h2>
+              
+          <section>
+            <h3><small>02.2021 - 06.2020 &nbsp; </small> Werkstudent in der Übersetzung bei S&O Handel mbH </h3>
+                 
+
+          </section>
+          <ul>
+              <li>Übersetzung der Webseite aus dem Deuschem ins Französische</li>
+              <li>Internationalisierung auf dem französischen Markt</li>
+              <li>Übersetzung von Produkten und Inhalten der E-Commerce_Webseite</li>
+             
+          </ul>
+          <section>
+            <h3><small>09.2019 - 11.2019 &nbsp; </small> Werkstudent in der Übersetzung bei Fidelo Software </h3>
+          </section>
+          <ul>
+              <li>Lokalisierung der Software <i>Fidelo School</i> auf dem französischen Markt </li>
+              <li>Übersetzung ins Französische</li>
+              <li>Post-Editieren von mit Deepl vorübersetzten Texten</li>
+              
+          </ul>
+
+               
+        </article> 
+
+        <!--This is the fift article-->
 
         <article>
                   <h2 style="background-color: #191970; color: white;">Skills</h2>
@@ -103,13 +139,25 @@
                 <h3>Soft skills</h3>
                 <ul>
                     <li>Sprachkenntnisse</li>
-                    <ul style="display: inline-block;">
-                    <li><b> <i> Französisch</i></b> : Muttersprache</li>
-                    <li> <b> <i> Deutsch</i> ></b> : Fließend </li>
-                    <li> <b> <i> Englisch</i> ></b>: Fließend</li>
-                </ul>
+                    
+                    
+                        
+                        <ul style="display: flex;">
+                            <li style="display: inline-block;margin-right: 10px;"><b> <i> Französisch</i></b> : Muttersprache</li>
+                            <li style="display: inline-block;margin-right: 10px;"> <b> <i> Deutsch</i> ></b> : Fließend </li>
+                            <li style="display: inline-block;margin-right: 10px;"> <b> <i> Englisch</i> ></b>: Fließend</li>
+                        </ul>
+                        <br>
+                   
                     <li>EDV Kenntnisse</li>
-                    <li></li>
+                    <ul style="display: flex; ">
+                        <li style="display: inline-block;margin-right: 10px;"><b> <i> Word</i></b> : Sehr gut</li>
+                        <li style="display: inline-block;margin-right: 10px;"> <b> <i> Excel</i> </b> : Sehr gut </li>
+                        <li style="display: inline-block;margin-right: 10px;"> <b> <i> Powerpoint</i> </b>: Sehr gut</li>
+                    </ul>
+               
+
+                    
                 </ul>
             </section>
             <section>
@@ -118,7 +166,7 @@
 
         </article>
 
-        <!--This is the fifth article-->
+        <!--This is the sith article-->
             <article>
                 <h2 style="background-color: #191970; color: white;">Kontakt</h2>
                 <address style="text-align: justify;">
