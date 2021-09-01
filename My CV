@@ -8,39 +8,126 @@
    <meta name="autor" content="Leonel Zone">
     <title>Cv_Example</title>
     <link rel="stylesheet" href="index.css" type="text/css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Arimo&display=swap" rel="stylesheet">
 </head>
-<body>
-    <header>
-        <h1>Leonel Zone Yemeli</h1>
+<body style="background-color: whitesmoke;font-family: 'Arimo', sans-serif; margin: 0px;box-sizing: border-box;">
+    <header style="background-color: #191970; margin-left: 0px; width: 100%;">
+        <img src="leo.jpg" alt="Bild von Leonel" style="width: 150px; height: auto; float: right;margin: 0px; max-width:100%;display: flex; margin-right: 10px;">
+        
+        
+            <h1 style=" display: inline-block; color: white;"> Leonel Zone Yemeli</h1>
+        
+        
     </header>
-    <main>
+    <main style="margin-left: 10px;">
+
+        <!--This is the first article-->
         <article>
                 <h2>Profil</h2>
         </article>
+
+        <!--This is the second article-->
         <article>
-            <h2>Erfahrung</h2>
+            <h2 style="background-color: #191970; color: white;">Weiterbildung</h2>
               
           <section>
-            <h3>Werkstudent in der Übersetzung bei </h3>
+            <h3><small>08.2021 - 11.2021 &nbsp; </small>  Weiterbildung für Web-Anwendungsentwickler
+                 bei Coding Bootcamps Europe GmbH </h3>
+                 
+
           </section>
+          <ul>
+              <li>Html, Css, Javascript, Node.js und Backend, 
+                  Testing, Agile Software-Entwicklung, JavaScript, Frameworks, Git,</li>
+              <li>Debugging mit den Browser DevTools,</li>
+              <li>Tooling rund um Visual Studio Code,</li>
+              <li>Productivity Booster for Junior Developers,</li>
+              <li>Deployment mit GitHub und Netlify,</li>
+              <li>Grundlagen Web Performance</li>
+              
+          </ul>
           <section>
-            <h3>Werkstudent in der Übersetzung bei </h3>
+            <h3><small>05.2021 - 07.2021 &nbsp; </small> Udemy Online Kurse für Web-Anwendungsentwickler </h3>
           </section>
+          <ul>
+              <li>HTML5, CSS, Bootstrap5 & JavaScript</li>
+              <li>Mobile-First, responsive Websites Für Webentwickler!</li>
+              <li>Photoshop</li>
+              
+          </ul>
+
                
         </article> 
 
+        <!--This is the third article-->
         <article>
-                  <h2>Skills</h2>
+            <h2 style="background-color: #191970; color: white;">Akademischer Werdegang</h2>
+              
+          <section>
+            <h3><small>11.2019 - 12.2021 &nbsp; </small>  Master Of Arts an der Technische Hoschule Köln </h3>
+            <ul>
+                <li><b>Studiengang</b> : Fachübersetzen (Deutsch; Französisch; Englisch) <br>
+                mit Fokus auf Recht, Wirtschaft, Technik und IT </li>
+            </ul>
+                 
+
+          </section>
+
+          <section>
+            <h3><small>09.2017 - 02.2020 &nbsp; </small>  Bachelor Of Arts an der Technische Hoschule Köln </h3>
+            <ul>
+                <li><b>Studiengang</b> : Mehrsprachige Kommunikation (Deutsch; Französisch; Englisch) <br>
+                mit Fokus auf Recht, Wirtschaft, kultur und Kommunikation </li>
+            </ul>
+                 
+
+          </section>
+
+          
+          <section>
+            <h3><small>09.2010 - 11.2014 &nbsp; </small> Bachelor Of Arts an der Universität Jaunde 1 Kamerun </h3>
+          </section>
+          <ul>
+            <li><b>Studiengang</b> : Germanistik <br> mit Fokus auf germanistische Sprachwissenschaft  </li>
+        </ul>
+               
+        </article> 
+
+        <!--This is the fourt article-->
+
+        <article>
+                  <h2 style="background-color: #191970; color: white;">Skills</h2>
             <section>
                 <h3>Soft skills</h3>
+                <ul>
+                    <li>Sprachkenntnisse</li>
+                    <ul style="display: inline-block;">
+                    <li><b> <i> Französisch</i></b> : Muttersprache</li>
+                    <li> <b> <i> Deutsch</i> ></b> : Fließend </li>
+                    <li> <b> <i> Englisch</i> ></b>: Fließend</li>
+                </ul>
+                    <li>EDV Kenntnisse</li>
+                    <li></li>
+                </ul>
             </section>
             <section>
                 <h3>Technichal skills</h3>
             </section> 
 
         </article>
+
+        <!--This is the fifth article-->
             <article>
-                <h2>Kontakt</h2>
+                <h2 style="background-color: #191970; color: white;">Kontakt</h2>
+                <address style="text-align: justify;">
+                    Leonel Zone Yemeli <br>
+                    Römerstr.98 <br>
+                    44579 Castrop-Rauxel <br>
+                    E-mail: <a href="mailto:leonel.zone@yahoo.fr">leonel.zone@yahoo.fr</a> <br>
+                    Tel.: <a href="tel:+491771577232">+491771577232</a>
+                </address>
             </article>
             
         
